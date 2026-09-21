@@ -10,3 +10,4 @@ pub mod lc66;
 pub mod lc8;
 pub mod lc84;
 pub mod lc88;
+pub mod lc94;
