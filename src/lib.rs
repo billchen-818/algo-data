@@ -1,3 +1,4 @@
+pub mod lc189;
 pub mod lc19;
 pub mod lc2;
 pub mod lc206;
