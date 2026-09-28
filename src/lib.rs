@@ -10,6 +10,7 @@ pub mod lc40;
 pub mod lc5;
 pub mod lc61;
 pub mod lc66;
+pub mod lc70;
 pub mod lc8;
 pub mod lc84;
 pub mod lc88;
